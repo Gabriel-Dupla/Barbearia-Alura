@@ -1,4 +1,4 @@
-<img align= "center" src="https://i.imgur.com/csZfEVD.png" alt= "Imagem de um pilar giratório com listras">
+<img width= "20px" align= "center" src="https://i.imgur.com/csZfEVD.png" alt= "Imagem de um pilar giratório com listras">
 
 <h1 align= "center"> <em> <strong> Barbearia-Alura </strong> </em> </h1>
 
