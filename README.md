@@ -1,6 +1,5 @@
 <p align= "center">
 <img width= "100px"src="https://i.imgur.com/csZfEVD.png" alt= "Inicia transcrição. Imagem de um pilar giratório com listras. Fim transcrição.">
-
 <h1 align = "center"> <em> <strong> Barbearia-Alura </strong> </em> </h1>
 </p>
 
@@ -11,28 +10,38 @@ Sobre:
 </p>  
 </h2>
 
-Projeto elaborado durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos) de HTML e CSS na plataforma **[Alura](https://www.alura.com.br/)**, pelo instrutor [Pedro Marins](https://cursos.alura.com.br/user/opedromarins).
+Projeto elaborado durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos) de HTML e CSS.
+O Curso é ofertado pela plataforma **[Alura](https://www.alura.com.br/)**.
+Perfil na plataforma do instrutor do curso [Pedro Marins](https://cursos.alura.com.br/user/opedromarins).
 
 
 
-# 📚 Conhecimentos adquiridos:
+## 📚 Conhecimentos adquiridos:
 Durante o decorrer do curso diversos aprendizados foram desenvolvidos, abaixo alguns deles:
 
   - Formatação de uma página web;
   - Manejo da linguagem de estilos (CSS3);
-  - 
+  ✅
 
-# 🍃 O projeto: 
-Por meio dos conehcimentos adquiridos foi possível desenvolver uma página web com imagens, formatação e estilos.
+## 🍃 O Projeto: 
+Por meio dos conhecimentos adquiridos foi possível desenvolver uma página web com imagens, formatação e estilos.
 
-# 🛠️ Ferramentas utilizadas:
+<img alt="Inicia transcrição. Imagem de dentro de uma barbearia com duas cadeiras pretas giratórias e uma bancada de mandeira atrás. Fim transcrição." src="https://i.imgur.com/UO6iOx9.jpg">
 
-- Visual Studio Code para manipulação dos códigos;
-- Navegador Microsoft Edge para testes da página;
-- Linguagem HTML e CSS para criação e desenvolvimento da página.
+## 🛠️ Ferramentas utilizadas:
 
-  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt= "Visual studio code símbolo" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img alt= "Microsoft edge símbolo" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
+- Software de manipulação de código Visual Studio Code;
+- Plataforma de visualização da página: Navegador Microsoft Edge;
+- Linguagem de marcação HTML; 
+- Linguagem de estilos CSS.
+
+  <img align="center" alt="Inicia transcrição. Símbolo da linguagem de marcação html." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Inicia transcrição. Símbolo da linguagem de estilos CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt= "Inicia transcrição. Visual studio code símbolo" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img  align="center" alt= "Inicia transcrição. Microsoft edge símbolo. Fim transcrição." src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
   
+## Como Usar:
+
+Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip ou pelo link [Barbearia-Alura](https://gabriel-dupla.github.io/Barbearia-Alura/).
+
+
