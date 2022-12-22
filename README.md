@@ -1,7 +1,9 @@
-<img width= "100px" align= "center" src="https://i.imgur.com/csZfEVD.png" alt= "Imagem de um pilar giratório com listras">
+<p align= "center">
+<img width= "100px"src="https://i.imgur.com/csZfEVD.png" alt= "Imagem de um pilar giratório com listras">
 
-<h1 align= "center"> <em> <strong> Barbearia-Alura </strong> </em> </h1>
+<h1> <em> <strong> Barbearia-Alura </strong> </em> </h1>
 
+</p>
 # 📌 Sobre: 
 Projeto elaborado durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos) de HTML e CSS na plataforma **[Alura](https://www.alura.com.br/)**, pelo instrutor [Pedro Marins](https://cursos.alura.com.br/user/opedromarins).
 
